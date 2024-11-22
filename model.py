@@ -118,8 +118,8 @@ def plot_training_results(history):
 # Example usage in another script
 if __name__ == "__main__":
     # Define paths for train and test folders
-    train_dir = r'Dataset\train'
-    test_dir = r'Dataset\test'
+    train_dir = ''# Path to the training data
+    test_dir = ''# Path to the test data
     
     # Load the training, validation, and test data
     X_train, y_train, emotion_counts_train = load_data(train_dir)
