@@ -15,8 +15,8 @@ An advanced system for recognizing human emotions from facial expressions using 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/emotion-recognition-system.git
-   cd emotion-recognition-system
+   git clone https://github.com/ironsupr/Emotion-Detector
+   cd Emotion-Detector
    ```
 
 2. Install the required dependencies:
